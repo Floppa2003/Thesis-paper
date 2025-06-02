@@ -1,5 +1,5 @@
-# Thesis-paper
-Data, code and graphs required for thesis paper
+# Thesis paper
+Data, code and graphs required for thesis paper "Averages of Random Multiplicative Functions"
 
 # Инструкции по запуску
 ## C++ кода
